@@ -11,6 +11,7 @@
 - [x] Implement quick sort algorithm with visualization
 - [x] Add startSort and stopSort functionality
 - [x] Add speed control for sorting
+- [x] Add element numbers on each bar
 
 ## Linked List Visualizer
 - [x] Implement LinkedListVisualizer class with constructor and event listeners
@@ -54,4 +55,3 @@
 ## General
 - [ ] Test all functionalities
 - [ ] Ensure smooth animations and visualizations
-
