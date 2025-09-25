@@ -85,6 +85,7 @@ class SortingVisualizer {
       bar.className = 'bar';
       bar.id = `bar-${index}`;
       bar.style.height = `${value}px`;
+      bar.textContent = value;
       if (highlights.includes(index)) {
         bar.classList.add('highlight');
       }
